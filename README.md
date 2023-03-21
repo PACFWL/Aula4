@@ -1,9 +1,9 @@
 # Aula4
 ### Fatec ZL - Centro Paula Souza 
 ##### Disciplina - Programação Web III 
-Grupo 3 
-- Ernesto 
-- Leornado 
+Grupo __
+- [Ernesto](https://github.com/Erne1984)
+- [Leornado](https://github.com/Leohgb)
 - [Pablo Angel Choque Flores](https://github.com/PACFWL)  
 ##### Processo de Desenvolvimento de Software - PDS
 > O Projeto Interdisciplinar segue uma abordagem interativa incremental adaptada do Scrum. Cada interação tem uma definição de pronto estabelecida com objetivo de controlar a qualidade. 
@@ -20,12 +20,20 @@ necessárias para entrar nas conformidades do projeto
 - RU02 - Consultas - Informa sobre as informações cadastradas no sistema e que podem ser buscadas.
 - RU03 - Gerenciamentos – Excluir e atualizar dados e informações a respeito dos desaparecidos, funcionarios e volúntarios cadastrados.
 ##### Sprint Backlog 
-> Cada requisito tem um identificador único de maneira que seja possível rastrear a necessidade do cliente com a implementação do software. 
+Cada requisito tem um identificador único de maneira que seja possível rastrear a necessidade do cliente com a implementação do software. 
 | Identificador | Descrição | Prioridade |
 | ------------ | ------------------------------------------------------------------------ | ------| 
-| REQ01 – Cadastrar desaparecido | Como – Funcionario, Eu quero – fazer o cadastro, De maneira que – Armazene o seu registro | Média | | REQ02 – Consultar desaparecido | Como – Funcionario, Eu quero –  fazer a consulta, De maneira que – Verificar seus dados | Alta | | REQ03 – -Atualizar desaparecido | Como – Funcionario, Eu quero – Atualizar os dados de um desaparecido, De maneira que – corrija alguma informação incongruente e atualize os dados | Alta | | REQ04 – -Excluir desaparecido | Como – Funcionario, Eu quero – Excluir o cadastro do Desaparecido, De maneira que – o registro seja excluindo permanentemente | Baixa | | REQ05 – Cadastrar funcionário | Como – Funcionário, Eu quero – Cadastrar informações do funcionário, De maneira que –  os funcionarios possam acessar o Sistema e gerenciar os registros de desaparecidos | Baixa | | REQ06 –  Consultar funcionário | Como – Funcionário, Eu quero – Visualizar os dados do funcionário, De maneira que – possa visualizar o nome, cpf, matricula e outros dados references ao funcionario | Baixa | | REQ07 – Atualizar funcionário | Como – Funcionário, Eu quero – Atualizar os dados do funcionário, De maneira que – corrija dados inconsistentes e atualize os registros | Baixa |  | REQ08 – Excluir funcionário | Como – Funcionário, Eu quero – Exclusão dos dados do funcionário, De maneira que – apenas exclua o registro do funcionario da Lista de funcionarios | Baixa |  | REQ09 – Cadastrar voluntario  | Como – Voluntario, Eu quero – Incluir um cadastro de voluntario, De maneira que – possa me tornar Voluntario e colaborar na procurar de pessoas 
-desaparecidas | Baixa |  | REQ10 – Atualizar voluntario  | Como –  Funcionario, Eu quero – Modificar os dados do voluntario
-, De maneira que – Corrija ou atualize os dados dos voluntarios | Baixa |  | REQ11 – Excluir voluntario  | Como – Funcionario, Eu quero – Ser Desvinculado do sistema , De maneira que – Que os dados sejam removidos do sistema | Baixa |
+| REQ01 – Cadastrar desaparecido | Como – Funcionario, Eu quero – fazer o cadastro, De maneira que – Armazene o seu registro | Média |
+| REQ02 – Consultar desaparecido | Como – Funcionario, Eu quero –  fazer a consulta, De maneira que – Verificar seus dados | Alta | 
+| REQ03 – -Atualizar desaparecido | Como – Funcionario, Eu quero – Atualizar os dados de um desaparecido, De maneira que – corrija alguma informação incongruente e atualize os dados | Alta | 
+| REQ04 – -Excluir desaparecido | Como – Funcionario, Eu quero – Excluir o cadastro do Desaparecido, De maneira que – o registro seja excluindo permanentemente | Baixa| 
+| REQ05 – Cadastrar funcionário | Como – Funcionário, Eu quero – Cadastrar informações do funcionário, De maneira que –  os funcionarios possam acessar o Sistema e gerenciar os registros de desaparecidos | Baixa | 
+| REQ06 –  Consultar funcionário | Como – Funcionário, Eu quero – Visualizar os dados do funcionário, De maneira que – possa visualizar o nome, cpf, matricula e outros dados references ao funcionario | Baixa | 
+| REQ07 – Atualizar funcionário | Como – Funcionário, Eu quero – Atualizar os dados do funcionário, De maneira que – corrija dados inconsistentes e atualize os registros | Baixa |
+| REQ08 – Excluir funcionário | Como – Funcionário, Eu quero – Exclusão dos dados do funcionário, De maneira que – apenas exclua o registro do funcionario da Lista de funcionarios | Baixa |
+| REQ09 – Cadastrar voluntario  | Como – Voluntario, Eu quero – Incluir um cadastro de voluntario, De maneira que – possa me tornar Voluntario e colaborar na procurar de pessoas desaparecidas | Baixa |  
+| REQ10 – Atualizar voluntario  | Como –  Funcionario, Eu quero – Modificar os dados do voluntario, De maneira que – Corrija ou atualize os dados dos voluntarios | Baixa |  
+| REQ11 – Excluir voluntario  | Como – Funcionario, Eu quero – Ser Desvinculado do sistema , De maneira que – Que os dados sejam removidos do sistema | Baixa |
 ##### Definição de pronto 
 > O sprint será considerado concluido quando: 
 > 1) Os casos de teste de aceitação forem executados e obtiverem 100% de satisfatorios. Os casos de teste (CT) são rastreáveis para os requisiitos (REQ). O elo de rastreabilidade 
